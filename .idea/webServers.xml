@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="25229b7f-f78c-43b1-890e-3837fe6ebc94" name="192.168.200.31">
+        <fileTransfer rootFolder="/root/GameCloud" accessType="SFTP" host="192.168.200.31" port="22" sshConfigId="7e61960d-35c9-435c-80c5-f46c89f16594" sshConfig="root@192.168.200.31:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+{
+  "SITE_URL": "https://example.domain.com",
+  "SITE_NAME": "小技资源分享系统",
+  "SITE_DESCRIPTION": "基于Python开发的资源分享系统",
+  "SITE_KEYWORDS": "Python,Vue,MySQL",
+  "DATABASE": {
+    "NAME": "resource",
+    "USER": "root",
+    "PASSWORD": "Lj2003!@#",
+    "HOST": "127.0.0.1",
+    "PORT": "3306"
+  },
+  "ADMIN": {
+    "USERNAME": "admin",
+    "PASSWORD": "000000",
+    "EMAIL": "admin@example.com",
+    "NICKNAME": "管理员"
+  }
+}
